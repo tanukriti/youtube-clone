@@ -1,0 +1,54 @@
+p {
+        font-family: Roboto;
+    }
+
+    .heading{
+        font-size: 18px;
+        font-weight: bold;
+        width: 300px;
+        line-height: 24px;
+        margin-bottom: 0px;
+        margin-top: 80px;
+    }
+
+    .views{
+        line-height: 24px;
+        color: rgb(86, 83, 83);
+        font-size: 14px;
+        margin-top: 2px;
+    }
+
+    .youtuber{
+        line-height: 24px;
+        color: rgb(86, 83, 83);
+        font-size: 14px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+
+    .bio {
+        line-height: 24px;
+        color: rgb(86, 83, 83);
+        width: 280px;
+        font-size: 14px;
+        margin-top: 10px;
+        margin-bottom: 50px;
+        line-height: 22px;
+    }
+
+    .appletext{
+        font-size:14px ;
+        margin-bottom: 50px;
+        background-color: rgb(227, 65, 64);
+        color: white;
+        text-align: center;
+        padding-top: 15px;
+        padding-bottom: 15px;
+    }
+.shop{
+    cursor: pointer;
+}
+
+.shop:hover{
+    text-decoration: underline;
+}
