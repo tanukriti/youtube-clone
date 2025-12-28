@@ -51,6 +51,18 @@
     row-gap: 40px;
 }
 
+@media (max-width: 750px){
+    .video_grid{
+        grid-template-columns: 1fr 1fr;
+    }
+}
+
+@media (max-width: 1000px){
+    .video_grid{
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+    }
+}
+
 .video-time{
     font-family: Roboto,Arial, Helvetica, sans-serif;
     font-size: 12px;
